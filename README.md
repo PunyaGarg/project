@@ -1,2 +1,2 @@
 # project
-my first hands on experience making a project. Had an amazing learning experience.
+My first hands on experience making a project. Had an amazing learning time.
